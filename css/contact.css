@@ -1,0 +1,40 @@
+.space{
+    height: 35%; 
+    width: 80%; 
+    position: fixed; 
+    z-index: 0; 
+    left: 15%;
+    background-color: #f0ead6; 
+    overflow-x: hidden; 
+    border-radius: 50px;
+    border-style: outset;
+    border-top-color: #461F00;
+    border-left-color: #461F00;
+    border-right-color: #836953;
+    border-bottom-color: #836953;
+    top: 15%;
+}
+.github {
+    left: 18%;
+    top: 18%;
+}
+.githubLink {
+    left: 45%;
+    top: 18%;
+}
+.linkedin {
+    left: 18%;
+    top: 28%;
+}
+.linkedinLink {
+    left: 45%;
+    top: 28%;
+}
+.email {
+    left: 18%;
+    top: 38%;
+}
+.emailLink{
+    left: 45%;
+    top: 38%;
+}

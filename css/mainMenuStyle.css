@@ -1,0 +1,134 @@
+html, body {margin: 0; height: 100%; overflow: hidden; background-color: #f0ead6}
+body {
+    background-image: url("https://gateway.ipfs.io/ipfs/QmZAzTzgsNQQ7SYh4mJKjadno68sR74HNdH9EVhJ7jJnZ9");
+    background-size: contain;
+    background-color: #f0ead6;
+}
+
+p {
+    font-family: monospace;
+    font-size: 32px;
+}
+
+.sidenav, .titleBar{
+    height: 75%; 
+    width: 12%; 
+    position: fixed; 
+    z-index: 0; 
+    top: 0; 
+    left: 1%;
+    background-color: #f0ead6; 
+    overflow-x: hidden; 
+    border-radius: 50px;
+    border-style: outset;
+    border-top-color: #461F00;
+    border-left-color: #461F00;
+    border-right-color: #836953;
+    border-bottom-color: #836953;
+    top: 10%;
+}
+
+.titleBar {
+    top: 1%;
+    left: 10%;
+    width: 80%;
+    height: 8%;
+    overflow-y: hidden;
+    z-index: 0;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+h1{
+    border-radius: 50px;
+    border-style: outset;
+    border-top-color: #461F00;
+    border-left-color: #461F00;
+    border-right-color: #836953;
+    border-bottom-color: #836953;
+    font-family: Helvetica;
+    color: #461F00;
+    position: fixed;
+}
+.pageTitle{
+    background-color: #f0ead6;
+    font-size: 34px;
+    top: 2%;
+    left: 2%;
+}
+.download {
+    background-color: #461F00;
+    color: #f0ead6;
+    font-size: 18px;
+    top: 6%;
+    left: 70%;
+}
+h2 {
+    position: fixed;
+    font-size: 28px;
+    font-family: Helvetica;
+    color: #461F00;
+    z-index: auto;
+    left: 3%;
+    top: 9%;
+}
+
+button {
+    position: absolute;
+    background: transparent;
+    border-width: 0px;
+    border-top-width: 5px;
+    border-top-color:#836953;
+    border-bottom-width: 5px;
+    border-bottom-color: #009900;
+    font-size: 16px;
+    width: 100%;
+}
+
+.eldmNetBtn {
+    top: -1%;
+}
+
+.aboutBtn {
+    top: 20%;
+}
+.blogBtn {
+    top: 30%;
+}
+.projectBtn {
+    top: 40%;
+}
+
+.contactBtn {
+    top: 50%;
+}
+
+#downloadLink {
+    position: fixed;
+    left: 91%;
+    top: 3%;
+}
+
+
+iframe {
+    position: fixed;
+    border: 0px;
+    width: 80%;
+    height: 100%;
+    padding-left: 6%;
+    padding-top: 7%;
+    display: flex;
+    justify-content: center;
+    z-index: 0;
+}
+
+.titleOfContent {
+    position: fixed;
+    left: 40%;
+    font-family: Helvetica;
+}

@@ -1,0 +1,45 @@
+.sidenavHistoryTitle {
+    left: 90%;
+}
+
+iframe {
+    left: 7%;
+}
+
+.sidenavHistory {
+    height: 75%; 
+    width: 12%; 
+    position: fixed; 
+    z-index: 0; 
+    top: 0; 
+    left: 87%;
+    background-color: #f0ead6; 
+    overflow-x: hidden; 
+    border-radius: 50px;
+    border-style: outset;
+    border-top-color: #461F00;
+    border-left-color: #461F00;
+    border-right-color: #836953;
+    border-bottom-color: #836953;
+    top: 10%;
+}
+
+.blockchainScalability {
+    top: 2vw;
+    font-size: 1.25vw;
+}
+
+.distributedFileSystemsAndTheirBigData {
+    top: 8vw;
+    font-size: 1.25vw;
+}
+
+.howUsUsesBigData {
+    top: 14vw;
+    font-size: 1.25vw;
+}
+
+.myViewOfBigData {
+    top: 20vw;
+    font-size: 1.25vw;
+}

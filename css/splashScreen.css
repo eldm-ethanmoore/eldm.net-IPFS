@@ -1,0 +1,50 @@
+html, body {margin: 0; height: 100%; overflow: hidden; background-color: #f0ead6}
+#AllElements {
+    overflow: hidden;
+}
+#CenterTitle {
+    height: 10em;
+    font-family: Helvetica;
+    margin: 0;
+    color:#009900;
+    position: fixed;
+    top: 90%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    font-size: 128px; 
+}
+#CenterNotify {
+    height: 10em;
+    position: fixed;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    font-size: 24px;
+    font-family: Helvetica;
+    animation:BlinkingNotify 3.8s infinite;
+}
+
+@keyframes BlinkingNotify{
+    0%{     color: #009900;    }
+    10%{    color: #32ad32; }
+    20%{    color: #66c166; }
+    30%{    color: #99d699;  }
+    40%{   color: #e9f0d6;    }
+    50%{     color: #f0ead6;    }
+    60%{    color: #cceacc; }
+    70%{    color: #99d699; }
+    80%{    color: #66c166;  }
+    90%{   color: #32ad32;    }
+    100%{     color: #009900;   }
+}
+
+.arrow {
+    margin-left: 50%;
+    border: solid brown;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
