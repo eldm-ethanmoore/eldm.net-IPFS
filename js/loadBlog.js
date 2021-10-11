@@ -1,20 +1,20 @@
 loadBlockchainScalability = function loadBlockchainScalability() {
-    document.getElementById('pdf').src = "Blockchain_Scalability.pdf#toolbar=0"
-    document.getElementById('downloadLink').href = "Blockchain_Scalability.pdf"
+    document.getElementById('pdf').src = "https://gateway.ipfs.io/ipfs/QmNP1XFRCBZJYphkHKkg47TAcT2EPPwszqmyuiQkgzXPbP#toolbar=0"
+    document.getElementById('downloadLink').href = "https://gateway.ipfs.io/ipfs/QmNP1XFRCBZJYphkHKkg47TAcT2EPPwszqmyuiQkgzXPbP"
 }
 
 loadDistributedFileSystemsAndTheirBigData = function loadDistributedFileSystemsAndTheirBigData() {
-    document.getElementById('pdf').src = "Distributed_File_Systems_and_Their_Big_Data.pdf#toolbar=0";
-    document.getElementById('downloadLink').href = "Distributed_File_Systems_and_Their_Big_Data.pdf"
+    document.getElementById('pdf').src = "https://gateway.ipfs.io/ipfs/QmWiDBXyDvXcuMhBw5EjzARQ5ysf1jme65jCiQFFbWCoGQ#toolbar=0";
+    document.getElementById('downloadLink').href = "https://gateway.ipfs.io/ipfs/QmWiDBXyDvXcuMhBw5EjzARQ5ysf1jme65jCiQFFbWCoGQ"
 }
 
 loadHowUSUsesBigData = function loadHowUSUsesBigData() {
-    document.getElementById('pdf').src = "How_does_the_U_S__Government_use_Big_Data_.pdf#toolbar=0"
-    document.getElementById('downloadLink').href = "How_does_the_U_S__Government_use_Big_Data_.pdf"
+    document.getElementById('pdf').src = "https://gateway.ipfs.io/ipfs/QmVQpuTABAcF8Mf5j5rGHGZUbGw9WVjNQFBxxaSJs7DtHs#toolbar=0"
+    document.getElementById('downloadLink').href = "https://gateway.ipfs.io/ipfs/QmVQpuTABAcF8Mf5j5rGHGZUbGw9WVjNQFBxxaSJs7DtHs"
 }
 
 loadMyViewOfBigData = function loadMyViewOfBigData() {
-    document.getElementById('pdf').src = "My_View_of_Big_Data.pdf#toolbar=0"
-    document.getElementById('downloadLink').href = "My_View_of_Big_Data.pdf"
+    document.getElementById('pdf').src = "https://gateway.ipfs.io/ipfs/QmU6ktNcGaFZJFbTkHEU1XfPeDtkoB5Jx9xBWAVUhG8E32#toolbar=0"
+    document.getElementById('downloadLink').href = "https://gateway.ipfs.io/ipfs/QmU6ktNcGaFZJFbTkHEU1XfPeDtkoB5Jx9xBWAVUhG8E32"
 }
 
