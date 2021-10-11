@@ -1,14 +1,14 @@
 loadRaspPiCPUGPU = function loadRaspPiCPUGPU() {
-    document.getElementById('pdf').src = "Process_Comparisons_Between_the_Raspberry_Pi_s_CPU_and_GPU.pdf#toolbar=0"
-    document.getElementById('downloadLink').href = "Process_Comparisons_Between_the_Raspberry_Pi_s_CPU_and_GPU.pdf"
+    document.getElementById('pdf').src = "https://gateway.ipfs.io/ipfs/QmcTXRdJtdwXRJGETKBRNM8k4KGRRwJMotkn6UyoFbde5k#toolbar=0"
+    document.getElementById('downloadLink').href = "https://gateway.ipfs.io/ipfs/QmcTXRdJtdwXRJGETKBRNM8k4KGRRwJMotkn6UyoFbde5k"
 }
 
 loadAutoCiv = function loadAutoCiv() {
-    document.getElementById('pdf').src = "autocivREADMEPDF.pdf#toolbar=0";
-    document.getElementById('downloadLink').href = "autocivREADMEPDF.pdf"
+    document.getElementById('pdf').src = "https://gateway.ipfs.io/ipfs/QmRP4sWMJ1VQ4vURwPp1VNdxLwKBhSxgc2VuU8gJ4pDp54#toolbar=0";
+    document.getElementById('downloadLink').href = "https://gateway.ipfs.io/ipfs/QmRP4sWMJ1VQ4vURwPp1VNdxLwKBhSxgc2VuU8gJ4pDp54"
 }
 
 loadScriptsAndConfigs = function loadScriptsAndConfigs() {
-    document.getElementById('pdf').src = "Scripts_And_Configs_README.pdf#toolbar=0"
-    document.getElementById('downloadLink').href = "Scripts_And_Configs_README.pdf"
+    document.getElementById('pdf').src = "https://gateway.ipfs.io/ipfs/QmZ9dvfo6gmBNo2Mix1ksKSSJoxg6ZeU2GBKG4TEHUThxb#toolbar=0"
+    document.getElementById('downloadLink').href = "https://gateway.ipfs.io/ipfs/QmZ9dvfo6gmBNo2Mix1ksKSSJoxg6ZeU2GBKG4TEHUThxb"
 }
